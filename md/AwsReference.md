@@ -2,12 +2,13 @@
 ## [System Desingn Interview By Alex Xu](https://drive.google.com/file/d/1Lbpu65vt3Qb12Siw51AB_mk2S6BhJs46/view?usp=drive_link)
 
 # AWS Resources
-# [AWS Certified Cloud Practicner Exam Guide](https://drive.google.com/file/d/1G94LtzDCu9X2snnBGsNdQrINbSvraTqW/view?usp=sharing)
+## By Stephane Maarek
+1.  [AWS Certified Cloud Practitioner Slides](https://drive.google.com/file/d/1a4zXOi7yyLBKqOAvPXvfAu2MuTU2M2FB/view?usp=drive_link)
+2.  [AWS Certified Developer Slides](https://drive.google.com/file/d/1j6NOmcLHIa3Y46SdW-_UZacVMVDLmHf2/view?usp=drive_link)
+   
+### [AWS Certified Cloud Practicner Exam Guide - By KPLABS](https://drive.google.com/file/d/1BcPUjQaE3BhSNt1aMOu5osCl30HYLJ3A/view?usp=drive_link)
 
-# Spring Framework
-## [Spring Boot 3 - Luv 2 Code](https://drive.google.com/drive/folders/1IIO5qvFgxcwX1fZIBmwBsLexNgfYSQ6x?usp=drive_link)
-
-# Spring Framework
+## Spring Framework
 1. [- Spring Boot 3 Quick Start](https://drive.google.com/file/d/1hAcA6ipnobKJn7v0nxmDym1lqh19V6Zq/view?usp=drive_link)
 2. [- Spring Core](https://drive.google.com/file/d/1Be1eBRLaHWREkiqkltZdtFadiS8O84Nf/view?usp=drive_link)
 3. [- Hibernate/JPA CRUD](https://drive.google.com/file/d/114_4UFEtWUEq2St4h802Pl6vyLuJBh2a/view?usp=drive_link)
