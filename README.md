@@ -1,5 +1,7 @@
 # Amazon Web Services (AWS):
 * [AWS Reference Doc](./md/AwsReference.md)
+* 
+* [Spring Boot Application Deployment to AWS EC2](./md/Deploying_SpringBootApplication_2EC2.md)
 
 # System Design Image:
 
