@@ -1,16 +1,16 @@
 # Steps to Deployee Spring Boot Application to AWS EC2 Server
-1. Create **DockerFile** At project level (pom.xml level)
+1. Create **DockerFile** At project level (pom.xml level) <br>
    [Dockerfile](../Dockerfile)
 2. Create repository at Docker Hub.
    
        vishal637yadav/springboot-api-reskilling
-3. Build the Projct on Local :
+3. Build the Project on Local Using Maven Build Command
 
        mvn clean package
-4. Build Docker Image on Local Using the Below Docker Command
+4. Build Docker Image on Local Using the Below Docker Command(like Commit in **Git**)
 
        docker build --platform linux/amd64 -t vishal637yadav/springboot-api-reskilling:tag-version-1.7 .
-5. Push the image to Docker Hub Repository.
+5. Push the image to Docker Hub Repository (like **Git Push**).
    
        docker push vishal637yadav/springboot-api-reskilling:tag-version-1.7
 6. Connect to EC2 server
